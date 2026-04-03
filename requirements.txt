@@ -1,0 +1,6 @@
+openai
+pandas
+pydantic
+python-dotenv
+tqdm
+jupyter
